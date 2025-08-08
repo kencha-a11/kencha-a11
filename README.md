@@ -50,8 +50,20 @@
 ## 🛠️ Languages and Tools:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,cpp,cs,mysql,figma&theme=dark&" alt="Skills" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,cpp,cs,mysql,figma,tailwind,git,github&theme=dark" alt="Skills" />
+
+
+  <!-- Inertia.js -->
+  <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="Inertia.js" width="48" height="48" style="margin-left:8px;" />
+
+  <!-- XAMPP -->
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="48" height="48" style="margin-left:8px;" />
+
+  <!-- VB.NET -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" alt="VB.NET" width="48" height="48" style="margin-left:8px; border-radius:50%; background-color:white;" />
 </div>
+
 
 
 <div align="center">
