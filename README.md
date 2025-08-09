@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0E75B6&text=hello%20world&descAlignY=65&descAlign=14&fontSize=30&fontColor=ADD8E6&animation=twinkling" alt="Header Wave" />
 </div>
 
 # Hi 👋, I'm Aljon Ken Fernandez
@@ -130,7 +130,7 @@ const aljon = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer&text=goodbye%20world&fontSize=30&fontColor=ADD8E6&animation=twinkling" alt="Footer Wave" />
 </div>
 
 <div align="center">
